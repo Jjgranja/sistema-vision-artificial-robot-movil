@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Sistema de Visión Artificial con Aprendizaje Profundo Embebido en Plataforma Acelerada para Aplicaciones Inteligentes"
+message: "Si utiliza este repositorio, cite el trabajo de grado asociado."
+type: software
+authors:
+  - family-names: "Granja Trávez"
+    given-names: "José Julián"
+repository-code: "https://github.com/Jjgranja/sistema-vision-artificial-robot-movil"
+license: "All rights reserved"
