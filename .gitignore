@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# ROS 2 / colcon
+ros2_ws_tesis/build/
+ros2_ws_tesis/install/
+ros2_ws_tesis/log/
+build/
+install/
+log/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Large model files are documented separately
+*.pt
+*.onnx
+*.engine
